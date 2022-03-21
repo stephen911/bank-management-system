@@ -21,4 +21,6 @@ class Account :
                                                                                                                     print("Balance : ",self.deposit)
                                                                                                                         
                                                                                                                             def modifyAccount(self):
-                                                                                                                                
+                                                                                                                                        print("Account Number : ",self.accNo)
+                                                                                                                                                self.name = input("Modify Account Holder Name :")
+                                                                                                                                                
