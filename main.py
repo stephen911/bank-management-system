@@ -24,4 +24,8 @@ class Account :
                                                                                                                                         print("Account Number : ",self.accNo)
                                                                                                                                                 self.name = input("Modify Account Holder Name :")
                                                                                                                                                         self.type = input("Modify type of Account :")
-                                                                                                                                                        
+                                                                                                                                                                self.deposit = int(input("Modify Balance :"))
+                                                                                                                                                                        
+                                                                                                                                                                            def depositAmount(self,amount):
+                                                                                                                                                                                        self.deposit += amount
+                                                                                                                                                                                        
