@@ -10,4 +10,5 @@ class Account :
                             def createAccount(self):
                                         self.accNo= int(input("Enter the account no : "))
                                                 self.name = input("Enter the account holder name : ")
-                                                
+                                                        self.type = input("Enter the type of account [C/S] : ")
+                                                        
