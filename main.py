@@ -20,4 +20,5 @@ class Account :
                                                                                                             print("Type of Account",self.type)
                                                                                                                     print("Balance : ",self.deposit)
                                                                                                                         
-                                                                                                                        
+                                                                                                                            def modifyAccount(self):
+                                                                                                                                
