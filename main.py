@@ -7,4 +7,5 @@ class Account :
                 deposit=0
                     type = ''
                         
-                        
+                            def createAccount(self):
+                                
