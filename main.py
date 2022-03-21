@@ -8,4 +8,5 @@ class Account :
                     type = ''
                         
                             def createAccount(self):
-                                
+                                        self.accNo= int(input("Enter the account no : "))
+                                        
