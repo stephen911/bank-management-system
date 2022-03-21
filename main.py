@@ -23,4 +23,5 @@ class Account :
                                                                                                                             def modifyAccount(self):
                                                                                                                                         print("Account Number : ",self.accNo)
                                                                                                                                                 self.name = input("Modify Account Holder Name :")
-                                                                                                                                                
+                                                                                                                                                        self.type = input("Modify type of Account :")
+                                                                                                                                                        
