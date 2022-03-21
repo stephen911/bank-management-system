@@ -17,4 +17,5 @@ class Account :
                                                                                 def showAccount(self):
                                                                                             print("Account Number : ",self.accNo)
                                                                                                     print("Account Holder Name : ", self.name)
-                                                                                                    
+                                                                                                            print("Type of Account",self.type)
+                                                                                                            
