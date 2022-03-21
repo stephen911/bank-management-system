@@ -56,4 +56,7 @@ class Account :
 
 
 
-                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                    def writeAccount():
+                                                                                                                                                                                                                                                                                                                                            account = Account()
+                                                                                                                                                                                                                                                                                                                                                account.createAccount()
+                                                                                                                                                                                                                                                                                                                                                
