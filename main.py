@@ -18,4 +18,5 @@ class Account :
                                                                                             print("Account Number : ",self.accNo)
                                                                                                     print("Account Holder Name : ", self.name)
                                                                                                             print("Type of Account",self.type)
-                                                                                                            
+                                                                                                                    print("Balance : ",self.deposit)
+                                                                                                                    
