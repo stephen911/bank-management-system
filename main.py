@@ -28,4 +28,7 @@ class Account :
                                                                                                                                                                         
                                                                                                                                                                             def depositAmount(self,amount):
                                                                                                                                                                                         self.deposit += amount
-                                                                                                                                                                                        
+                                                                                                                                                                                            
+                                                                                                                                                                                                def withdrawAmount(self,amount):
+                                                                                                                                                                                                            self.deposit -= amount
+                                                                                                                                                                                                            
