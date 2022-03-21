@@ -5,4 +5,6 @@ class Account :
         accNo = 0
             name = ''
                 deposit=0
-                
+                    type = ''
+                        
+                        
