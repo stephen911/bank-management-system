@@ -32,4 +32,5 @@ class Account :
                                                                                                                                                                                                 def withdrawAmount(self,amount):
                                                                                                                                                                                                             self.deposit -= amount
                                                                                                                                                                                                                 
-                                                                                                                                                                                                                
+                                                                                                                                                                                                                    def report(self):
+                                                                                                                                                                                                                        
