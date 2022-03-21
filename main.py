@@ -14,4 +14,5 @@ class Account :
                                                                 self.deposit = int(input("Enter The Initial amount(>=500 for Saving and >=1000 for current"))
                                                                         print("\n\n\nAccount Created")
                                                                             
-                                                                            
+                                                                                def showAccount(self):
+                                                                                    
