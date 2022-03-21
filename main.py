@@ -15,4 +15,5 @@ class Account :
                                                                         print("\n\n\nAccount Created")
                                                                             
                                                                                 def showAccount(self):
-                                                                                    
+                                                                                            print("Account Number : ",self.accNo)
+                                                                                            
